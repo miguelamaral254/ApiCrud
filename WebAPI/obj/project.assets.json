@@ -4529,11 +4529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MIGUEL\\NelioCourseC-\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\MIGUEL\\NelioCourseC-\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MIGUEL\\NelioCourseC-\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,7 +4,7 @@ using WebAPI.Services.EmployeeService;
 
 namespace WebAPI.Controllers;
 
-[Route("[controller]")]
+[Route("api/[controller]")]
 [ApiController]
 public class EmployeeController : ControllerBase
 {
