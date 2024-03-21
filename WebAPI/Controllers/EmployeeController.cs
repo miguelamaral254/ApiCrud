@@ -41,7 +41,7 @@ public class EmployeeController : ControllerBase
         ServiceResponse<List<EmployeeModel>> serviceResponse = await _employeeInterface.UpdateEmployee(updatedEmployee);
         return Ok(serviceResponse);
     }
-    [HttpPut("ShutDownEmployee")]
+    [HttpPut("shutDownEmployee")]
 
     public async Task<ActionResult<ServiceResponse<List<EmployeeModel>>>> ShutDownEmployee(int id)
     {
